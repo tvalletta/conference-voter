@@ -1,0 +1,4 @@
+[Wed Oct 12 12:47:06 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/conference-voter/favicon.ico, referer: http://conference-voter/
+[Wed Oct 12 12:47:10 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/conference-voter/favicon.ico
+[Wed Oct 12 12:50:10 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/conference-voter/css/poll.css, referer: http://conference-voter/results.html
+[Wed Oct 12 12:50:11 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/conference-voter/favicon.ico
