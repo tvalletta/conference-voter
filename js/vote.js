@@ -69,3 +69,16 @@ var Poll = (function() {
         }
     }
 }());
+
+
+document.addEventListener('keydown', handleVoteKey, false);
+
+function handleVoteKey(evt){
+    switch (event.keyCode){
+        case 86:
+            console.log('open voting');
+            Poll.reset();
+            socket.emit('openpoll', true);
+            break;
+    }
+}
